@@ -1,3 +1,6 @@
+## Amaç
+Bu sözleşmenin oluşturulma amacı, farklı branşlardan topluluklarda, tarafların sağlıklı iletişimini mümkün kılarak birlikte çalışmalarını kolaylaştırmaktır.
+
 ## Teminatımız
 
 Herkes için açık ve erişilebilir bir ortam sağlamak amacıyla topluluğun katkıcıları ve yürütücüleri olarak, katkı vermeyi yaş, beden tipi, engel durumu, etnik köken, cinsel kimlik, cinsel yönelim, cinsiyet ifadesi, tecrübe, milliyet, dış görünüş, ırk ve din ayrımı gözetmeden keyifli ve güvenli bir tecrübe haline getirmeyi taahhüt ederiz.
