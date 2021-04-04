@@ -33,11 +33,11 @@ Herkes için açık ve erişilebilir bir ortam sağlamak amacıyla topluluğun k
 
 * Topluluk yöneticileri, üyelerden bekledikleri davranış biçimini açıklamakla ve kabul edilemez davranışlara karşı tekrarlanmamaları için adil ve uygun bir şekilde gerekli düzenlemeleri yapmakla sorumludur.
 
-* Proje yürütücüleri bu koda uymayan yorumları, beyanları, linkleri veya diğer katkıları silme, değiştirme veya reddetme yetkisine sahiptir. Buna davranışları uygunsuz, kırıcı, saldırgan veya zararlı bulunan katkıcıları geçici veya kalıcı olarak topluluktan uzaklaştırmak da dahildir.
+* Proje yürütücüleri bu sözleşmeye uymayan yorumları, beyanları, linkleri veya diğer katkıları silme, değiştirme veya reddetme yetkisine sahiptir. Buna davranışları uygunsuz, kırıcı, saldırgan veya zararlı bulunan katkıcıları geçici veya kalıcı olarak topluluktan uzaklaştırmak da dahildir.
 
 ## Kapsam
 
-Bu kod topluluğa ait alanlarda ve birinin projeyi veya topluluğunu kamusal bir alanda temsil etmesi halinde geçerlidir. Topluluğu temsil etmek, topluluğun sosyal medya hesaplarını yönetmek veya bir etkinlikte topluluk adına görev almak şeklinde olabilir. Topluluğun temsilini topluluk yöneticileri tanımlayabilir veya detaylandırabilir.
+Bu sözleşme topluluğa ait alanlarda ve birinin projeyi veya topluluğunu kamusal bir alanda temsil etmesi halinde geçerlidir. Topluluğu temsil etmek, topluluğun sosyal medya hesaplarını yönetmek veya bir etkinlikte topluluk adına görev almak şeklinde olabilir. Topluluğun temsilini topluluk yöneticileri tanımlayabilir veya detaylandırabilir.
 
 ## Eylem
 
