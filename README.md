@@ -21,7 +21,7 @@ Herkes için açık ve erişilebilir bir ortam sağlamak amacıyla topluluğun k
 * Cinsiyetçi dil veya görsellerin kullanımı ve diğer katkıcılara istenmeyen romantik ilgi göstermek veya romantik tekliflerde bulunmak
 * Trollemek, hakaret/aşağılama içeren yorumlar ve birinin şahsına veya siyasi görüşlerine saldırmak
 * Birini alenen veya gizlice taciz etmek
-* Başka insanların [Kişisel Verileri Koruma Kanunu](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6698&MevzuatTur=1&MevzuatTertip=5)nda açıkça ifade edilen kişisel bilgilerini yayınlamak
+* Başka insanların [Kişisel Verilerin Korunması Kanunu](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6698&MevzuatTur=1&MevzuatTertip=5)nda açıkça ifade edilen kişisel bilgilerini yayınlamak
 * Profesyonel bir ortamda uygunsuz kaçabilecek davranışlarda bulunmak
 
 ## Bazı Diğer Hususlar
