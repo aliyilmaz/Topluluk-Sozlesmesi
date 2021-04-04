@@ -21,7 +21,7 @@ Herkes için açık ve erişilebilir bir ortam sağlamak amacıyla topluluğun k
 * Cinsiyetçi dil veya görsellerin kullanımı ve diğer katkıcılara istenmeyen romantik ilgi göstermek veya romantik tekliflerde bulunmak
 * Trollemek, hakaret/aşağılama içeren yorumlar ve birinin şahsına veya siyasi görüşlerine saldırmak
 * Birini alenen veya gizlice taciz etmek
-* Başka insanların kişisel bilgilerini, mesela ev adreslerini, rızaları olmadan yayınlamak
+* Başka insanların [Kişisel Verileri Koruma Kanunu](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6698&MevzuatTur=1&MevzuatTertip=5)nda açıkça ifade edilen kişisel bilgilerini yayınlamak
 * Profesyonel bir ortamda uygunsuz kaçabilecek davranışlarda bulunmak
 
 ## Bazı Diğer Hususlar
@@ -41,12 +41,13 @@ Bu kod topluluğa ait alanlarda ve birinin projeyi veya topluluğunu kamusal bir
 
 ## Eylem
 
-* Kabul edilemeyecek herhangi bir davranış içeren bir olay yaşanması durumunda topluluk ekibiyle Telegram kanalındaki yöneticiler ile direkt iletişim kurulabilir. Bu kişilere iletilen ve uygun görülen şikayetlerin tümü dikkate alınacak, araştırılacak ve duruma uygun bir şekilde yanıtlanacaktır. Topluluk yöneticileri olayı haber veren kişinin kimliğini gizli tutmakla yükümlüdür. Sözleşmenin icrasına dair yönergeler ayrıca yayınlanabilir.
+* Kabul edilemeyecek herhangi bir davranış içeren bir olay yaşanması durumunda, topluluk yöneticileri ile direkt iletişim kurulabilir. Bu kişilere iletilen ve uygun görülen şikayetlerin tümü dikkate alınacak, araştırılacak ve duruma uygun bir şekilde yanıtlanacaktır. Topluluk yöneticileri olayı haber veren kişinin kimliğini gizli tutmakla yükümlüdür. Sözleşmenin icrasına dair yönergeler ayrıca yayınlanabilir.
 
 * Topluluk yöneticileri bu sözleşmeyi iyi niyetle uygulamayan topluluk yöneticilerine karşı geçici veya kalıcı yaptırımlar uygulayabilir.
 
 
 
-#### Yararlanılan belgeler:
+## Yararlanılan belgeler:
 * http://contributor-covenant.org/version/1/4
 * http://www.belgeler.org/howto/smart-questions.html
+* https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6698&MevzuatTur=1&MevzuatTertip=5
