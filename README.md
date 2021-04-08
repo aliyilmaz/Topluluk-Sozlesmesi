@@ -28,6 +28,7 @@ Herkes için açık ve erişilebilir bir ortam sağlamak amacıyla topluluğun k
 
 * Grupta iş ilanı paylaşılabilir, fakat sürekli olarak ve rahatsızlık verici boyutta bir "spam" durumu oluşmamasına özen gösterilmelidir.
 * Topluluk adabına uygun soru sormak isteyenlerin, ayrıca ["Doğru Düzgün Soru Sormanın Yolları"](http://www.belgeler.org/howto/smart-questions.html) belgesini okumasında fayda görüyoruz.
+* Verimli tartışma ortamları yaratmaya ve siber zorbalığın önüne geçmeye katkı sunan [Teknik konular nasıl tartışılır?](https://www.youtube.com/watch?v=5h0CZj_NbvY) videosunu öneriyoruz.
 
 ## Yetki ve Sorumluluklarımız
 
