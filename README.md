@@ -18,6 +18,7 @@ Herkes için açık ve erişilebilir bir ortam sağlamak amacıyla topluluğun k
 
 #### Kabul edilemez davranışlara aşağıdakiler örnek gösterilebilir:
 
+* Topluluğun faaliyette bulunduğu ülkenin resmi dili dışında bir dilde ilan yayınlamak.
 * Cinsiyetçi dil veya görsellerin kullanımı ve diğer katkıcılara istenmeyen romantik ilgi göstermek veya romantik tekliflerde bulunmak
 * Trollemek, hakaret/aşağılama içeren yorumlar ve birinin şahsına veya siyasi görüşlerine saldırmak
 * Birini alenen veya gizlice taciz etmek
